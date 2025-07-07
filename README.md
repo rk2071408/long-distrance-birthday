@@ -1,9 +1,9 @@
-Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
+Made this as a birthday present for my bestfriend during longdistance. Small attempt for virtual party.
 
 Sample screenshot of the application .
 ![GitHub Logo](/images/screenshots/sample.jpg)
 
-URL: http://suryakant261.github.io/
+URL:[ http://suryakant261.github.io/](https://rk2071408.github.io/long-distrance-birthday/)
 
 Technology Used: Javascript, CSS3, HTML5
 
